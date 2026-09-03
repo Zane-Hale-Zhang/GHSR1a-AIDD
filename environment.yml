@@ -1,0 +1,52 @@
+# GHSR1a 药物发现数据科学项目 · 环境配置
+#
+# 用法：
+#   conda env create -f environment.yml
+#   conda activate aidd
+#
+# 注意（踩过坑，别跳过）：
+#   1. 必须先设置 conda-forge 为唯一频道并启用 strict 优先级，
+#      否则 RDKit 会与其他包出现底层库冲突：
+#        conda config --remove channels defaults
+#        conda config --add channels conda-forge
+#        conda config --add default_channels https://conda.anaconda.org/conda-forge
+#        conda config --set channel_priority strict
+#      第二条命令（default_channels）容易漏，漏了仍会 fallback 到 Anaconda 商业频道，
+#      触发 CondaToSNonInteractiveError。
+#   2. 不要往这个环境里装 boost-cpp / swig / mdtraj —— 实测会分别降级
+#      RDKit（2026.03.5→2024.03.6）与 numpy/pandas。
+#      编译型依赖一律放进独立环境。
+
+name: aidd
+
+channels:
+  - conda-forge
+
+dependencies:
+  # 基础
+  - python=3.10
+  - jupyterlab
+  - requests
+  - tqdm
+
+  # 化学信息学（核心，钉版本以保证结果可复现）
+  - rdkit=2026.03.5
+  - chembl_webresource_client=0.10.9
+
+  # 数值与建模
+  - numpy=2.2.6
+  - pandas=2.3.3
+  - scipy
+  - scikit-learn=1.7.2
+  - xgboost=3.2.0
+  - lightgbm=4.7.0
+
+  # 可视化
+  - matplotlib
+  - seaborn
+
+  # 结构生物学
+  - pymol-open-source=3.1.0
+  - pdbfixer=1.12
+  - openbabel=3.2.1
+  - gemmi=0.7.5

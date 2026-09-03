@@ -1,0 +1,32 @@
+# pip 备选方案（不使用 conda 时）
+#
+# 用法：
+#   python -m venv .venv && source .venv/bin/activate
+#   pip install -r requirements.txt
+#
+# 说明：
+#   - 本项目的核心依赖（RDKit、ChEMBL 客户端）在 PyPI 上均有官方 wheel。
+#   - pymol-open-source 与 pdbfixer 建议用 conda 装（pip 版本依赖 OpenMM，
+#     在非 Linux 平台上容易出问题）。若只需跑建模部分，可注释掉最后三行。
+#   - 推荐仍以 environment.yml 为准，那里的版本组合经过实测。
+
+rdkit==2025.9.1
+chembl-webresource-client==0.10.9
+
+numpy==2.2.6
+pandas==2.3.3
+scipy>=1.14
+scikit-learn==1.7.2
+xgboost==3.2.0
+lightgbm==4.7.0
+
+matplotlib>=3.9
+seaborn>=0.13
+jupyterlab>=4.0
+tqdm
+requests
+
+# 结构生物学（可选，建议 conda 安装）
+# pymol-open-source==3.1.0
+# pdbfixer==1.12
+# openbabel-wheel==3.1.1
