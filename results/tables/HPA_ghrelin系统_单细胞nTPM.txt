@@ -1,0 +1,771 @@
+Gene	Gene name	Cell type	nCPM
+ENSG00000121853	GHSR	adipocytes	0.9
+ENSG00000121853	GHSR	adrenal cortex cells	0.0
+ENSG00000121853	GHSR	adrenal medulla cells	0.0
+ENSG00000121853	GHSR	alveolar cells type 1	0.0
+ENSG00000121853	GHSR	alveolar cells type 2	0.0
+ENSG00000121853	GHSR	astrocytes	0.0
+ENSG00000121853	GHSR	b-cells	0.0
+ENSG00000121853	GHSR	basal keratinocytes	0.0
+ENSG00000121853	GHSR	basal prostatic cells	0.0
+ENSG00000121853	GHSR	bergmann glia	0.0
+ENSG00000121853	GHSR	brain excitatory neurons	0.9
+ENSG00000121853	GHSR	brain inhibitory neurons	0.5
+ENSG00000121853	GHSR	breast hormone-responsive cells	0.1
+ENSG00000121853	GHSR	breast lactating cells	0.0
+ENSG00000121853	GHSR	breast myoepithelial cells	0.0
+ENSG00000121853	GHSR	breast secretory cells	0.0
+ENSG00000121853	GHSR	cardiomyocytes	0.1
+ENSG00000121853	GHSR	cdc	0.0
+ENSG00000121853	GHSR	cholangiocytes	0.0
+ENSG00000121853	GHSR	choroid plexus epithelial cells	0.0
+ENSG00000121853	GHSR	colonocytes	0.0
+ENSG00000121853	GHSR	cone photoreceptor cells	0.0
+ENSG00000121853	GHSR	conjunctival goblet cells	0.0
+ENSG00000121853	GHSR	corticotrophs	17.5
+ENSG00000121853	GHSR	cytotrophoblasts	0.0
+ENSG00000121853	GHSR	decidual stromal cells	0.0
+ENSG00000121853	GHSR	differentiating spermatogonia	0.0
+ENSG00000121853	GHSR	distal convoluted tubule cells	0.0
+ENSG00000121853	GHSR	early primary spermatocytes	0.0
+ENSG00000121853	GHSR	early spermatids	0.0
+ENSG00000121853	GHSR	endometrial ciliated cells	0.0
+ENSG00000121853	GHSR	endometrial glandular cells	0.5
+ENSG00000121853	GHSR	endometrial luminal cells	0.4
+ENSG00000121853	GHSR	endometrial secretory cells	1.6
+ENSG00000121853	GHSR	endometrial stromal cells	0.2
+ENSG00000121853	GHSR	enteric stem cells	0.0
+ENSG00000121853	GHSR	enteric transient amplifying cells	0.0
+ENSG00000121853	GHSR	enterocytes	0.0
+ENSG00000121853	GHSR	ependymal cells	0.0
+ENSG00000121853	GHSR	epicardial cells	0.0
+ENSG00000121853	GHSR	epididymal basal cells	0.2
+ENSG00000121853	GHSR	epididymal clear cells	0.0
+ENSG00000121853	GHSR	epididymal efferent duct absorptive cells	0.0
+ENSG00000121853	GHSR	epididymal efferent duct ciliated cells	0.0
+ENSG00000121853	GHSR	epididymal principal cells	0.0
+ENSG00000121853	GHSR	erythrocyte progenitors	0.0
+ENSG00000121853	GHSR	erythrocytes	0.0
+ENSG00000121853	GHSR	esophageal apical cells	0.0
+ENSG00000121853	GHSR	esophageal basal cells	0.0
+ENSG00000121853	GHSR	esophageal suprabasal cells	0.0
+ENSG00000121853	GHSR	extravillous trophoblasts	0.0
+ENSG00000121853	GHSR	fallopian secretory cells	0.0
+ENSG00000121853	GHSR	fallopian tube ciliated cells	0.0
+ENSG00000121853	GHSR	fibro-adipogenic progenitors	0.0
+ENSG00000121853	GHSR	fibroblasts	0.0
+ENSG00000121853	GHSR	foveolar cells	0.0
+ENSG00000121853	GHSR	gastric chief cells	0.0
+ENSG00000121853	GHSR	gastric progenitor cells	0.0
+ENSG00000121853	GHSR	goblet cells	0.0
+ENSG00000121853	GHSR	gonadotrophs	2.1
+ENSG00000121853	GHSR	granulosa cells	0.0
+ENSG00000121853	GHSR	hematopoietic stem cells	0.0
+ENSG00000121853	GHSR	hepatic stellate cells	0.0
+ENSG00000121853	GHSR	hepatocytes	0.0
+ENSG00000121853	GHSR	hofbauer cells	0.1
+ENSG00000121853	GHSR	innate lymphoid cells	0.0
+ENSG00000121853	GHSR	kupffer cells	0.0
+ENSG00000121853	GHSR	lacrimal acinar cells	0.0
+ENSG00000121853	GHSR	lactotrophs	5.8
+ENSG00000121853	GHSR	late primary spermatocytes	0.0
+ENSG00000121853	GHSR	late spermatids	0.0
+ENSG00000121853	GHSR	leydig cells	0.0
+ENSG00000121853	GHSR	loop of henle epithelial cells	0.0
+ENSG00000121853	GHSR	lymphatic endothelial cells	0.0
+ENSG00000121853	GHSR	macrophages	0.1
+ENSG00000121853	GHSR	mast cells	0.0
+ENSG00000121853	GHSR	medullary thymic epithelial cells	0.0
+ENSG00000121853	GHSR	megakaryocyte progenitors	0.0
+ENSG00000121853	GHSR	megakaryocyte-erythroid progenitors	0.0
+ENSG00000121853	GHSR	megakaryocytes	0.0
+ENSG00000121853	GHSR	melanocytes	0.0
+ENSG00000121853	GHSR	mesothelial cells	0.0
+ENSG00000121853	GHSR	microglia	0.0
+ENSG00000121853	GHSR	migrating cytotrophoblasts	0.0
+ENSG00000121853	GHSR	monocyte progenitors	0.0
+ENSG00000121853	GHSR	monocytes	0.0
+ENSG00000121853	GHSR	mucous neck cells	0.0
+ENSG00000121853	GHSR	müller glia	0.0
+ENSG00000121853	GHSR	myonuclei	0.1
+ENSG00000121853	GHSR	myosatellite cells	0.0
+ENSG00000121853	GHSR	neuroendocrine cells	0.0
+ENSG00000121853	GHSR	neutrophil progenitors	0.0
+ENSG00000121853	GHSR	neutrophils	0.0
+ENSG00000121853	GHSR	nk-cells	1.8
+ENSG00000121853	GHSR	ocular epithelial cells	0.1
+ENSG00000121853	GHSR	oligodendrocyte progenitor cells	0.0
+ENSG00000121853	GHSR	oligodendrocytes	0.1
+ENSG00000121853	GHSR	oocytes	0.0
+ENSG00000121853	GHSR	other brain neurons	2.2
+ENSG00000121853	GHSR	ovarian stromal cells	0.0
+ENSG00000121853	GHSR	pancreatic acinar cells	0.0
+ENSG00000121853	GHSR	pancreatic duct cells	0.0
+ENSG00000121853	GHSR	pancreatic islet cells	3.6
+ENSG00000121853	GHSR	paneth cells	0.0
+ENSG00000121853	GHSR	papillary tip epithelial cells	0.0
+ENSG00000121853	GHSR	parietal cells	0.0
+ENSG00000121853	GHSR	pdcs	0.0
+ENSG00000121853	GHSR	pericytes	0.0
+ENSG00000121853	GHSR	peritubular myoid cells	0.0
+ENSG00000121853	GHSR	pituicytes/fscs	0.0
+ENSG00000121853	GHSR	pituitary stem cells	0.0
+ENSG00000121853	GHSR	plasma cells	0.1
+ENSG00000121853	GHSR	platelets	0.0
+ENSG00000121853	GHSR	podocytes	0.0
+ENSG00000121853	GHSR	prostatic club cells	0.0
+ENSG00000121853	GHSR	prostatic glandular cells	0.0
+ENSG00000121853	GHSR	prostatic hillock cells	0.0
+ENSG00000121853	GHSR	proximal tubule cells	0.0
+ENSG00000121853	GHSR	renal collecting duct intercalated cells	0.0
+ENSG00000121853	GHSR	renal collecting duct principal cells	0.0
+ENSG00000121853	GHSR	renal connecting tubule cells	0.0
+ENSG00000121853	GHSR	respiratory basal cells	0.0
+ENSG00000121853	GHSR	respiratory ciliated cells	0.0
+ENSG00000121853	GHSR	respiratory deuterosomal cells	0.0
+ENSG00000121853	GHSR	respiratory ionocytes	0.0
+ENSG00000121853	GHSR	respiratory secretory cells	0.0
+ENSG00000121853	GHSR	retinal amacrine cells	0.0
+ENSG00000121853	GHSR	retinal bipolar cells	0.0
+ENSG00000121853	GHSR	retinal ganglion cells	0.0
+ENSG00000121853	GHSR	retinal horizontal cells	0.0
+ENSG00000121853	GHSR	retinal pigment epithelial cells	0.0
+ENSG00000121853	GHSR	rod photoreceptor cells	0.0
+ENSG00000121853	GHSR	salivary acinar cells	0.1
+ENSG00000121853	GHSR	salivary basal cells	0.0
+ENSG00000121853	GHSR	salivary duct cells	0.0
+ENSG00000121853	GHSR	salivary ionocytes	0.0
+ENSG00000121853	GHSR	salivary myoepithelial cells	0.0
+ENSG00000121853	GHSR	schwann cells	0.0
+ENSG00000121853	GHSR	sertoli cells	0.0
+ENSG00000121853	GHSR	smooth muscle cells	0.0
+ENSG00000121853	GHSR	somatotrophs	19.3
+ENSG00000121853	GHSR	submucosal glandular cells	0.0
+ENSG00000121853	GHSR	suprabasal keratinocytes	0.0
+ENSG00000121853	GHSR	syncytiotrophoblasts	0.0
+ENSG00000121853	GHSR	t-cells	0.0
+ENSG00000121853	GHSR	thymic myoid cells	0.0
+ENSG00000121853	GHSR	thymocytes	0.0
+ENSG00000121853	GHSR	thyrotrophs	4.8
+ENSG00000121853	GHSR	transitional alveolar cells	0.0
+ENSG00000121853	GHSR	tuft cells	0.0
+ENSG00000121853	GHSR	undifferentiated spermatogonia	0.1
+ENSG00000121853	GHSR	urothelial cells	0.0
+ENSG00000121853	GHSR	vascular endothelial cells	0.0
+ENSG00000121853	GHSR	vascular smooth muscle cells	0.2
+ENSG00000157017	GHRL	adipocytes	9.6
+ENSG00000157017	GHRL	adrenal cortex cells	0.4
+ENSG00000157017	GHRL	adrenal medulla cells	10.6
+ENSG00000157017	GHRL	alveolar cells type 1	0.9
+ENSG00000157017	GHRL	alveolar cells type 2	0.7
+ENSG00000157017	GHRL	astrocytes	3.5
+ENSG00000157017	GHRL	b-cells	6.5
+ENSG00000157017	GHRL	basal keratinocytes	2.7
+ENSG00000157017	GHRL	basal prostatic cells	1.2
+ENSG00000157017	GHRL	bergmann glia	3.1
+ENSG00000157017	GHRL	brain excitatory neurons	2.0
+ENSG00000157017	GHRL	brain inhibitory neurons	1.9
+ENSG00000157017	GHRL	breast hormone-responsive cells	0.9
+ENSG00000157017	GHRL	breast lactating cells	2.4
+ENSG00000157017	GHRL	breast myoepithelial cells	0.0
+ENSG00000157017	GHRL	breast secretory cells	0.7
+ENSG00000157017	GHRL	cardiomyocytes	13.9
+ENSG00000157017	GHRL	cdc	26.7
+ENSG00000157017	GHRL	cholangiocytes	0.0
+ENSG00000157017	GHRL	choroid plexus epithelial cells	1.1
+ENSG00000157017	GHRL	colonocytes	1.0
+ENSG00000157017	GHRL	cone photoreceptor cells	10.4
+ENSG00000157017	GHRL	conjunctival goblet cells	0.0
+ENSG00000157017	GHRL	corticotrophs	0.7
+ENSG00000157017	GHRL	cytotrophoblasts	3.4
+ENSG00000157017	GHRL	decidual stromal cells	2.0
+ENSG00000157017	GHRL	differentiating spermatogonia	2.1
+ENSG00000157017	GHRL	distal convoluted tubule cells	3.1
+ENSG00000157017	GHRL	early primary spermatocytes	3.4
+ENSG00000157017	GHRL	early spermatids	0.7
+ENSG00000157017	GHRL	endometrial ciliated cells	1.2
+ENSG00000157017	GHRL	endometrial glandular cells	2.2
+ENSG00000157017	GHRL	endometrial luminal cells	1.8
+ENSG00000157017	GHRL	endometrial secretory cells	1.9
+ENSG00000157017	GHRL	endometrial stromal cells	2.8
+ENSG00000157017	GHRL	enteric stem cells	1.3
+ENSG00000157017	GHRL	enteric transient amplifying cells	1.0
+ENSG00000157017	GHRL	enterocytes	3.1
+ENSG00000157017	GHRL	ependymal cells	1.7
+ENSG00000157017	GHRL	epicardial cells	9.1
+ENSG00000157017	GHRL	epididymal basal cells	3.6
+ENSG00000157017	GHRL	epididymal clear cells	0.0
+ENSG00000157017	GHRL	epididymal efferent duct absorptive cells	0.5
+ENSG00000157017	GHRL	epididymal efferent duct ciliated cells	0.8
+ENSG00000157017	GHRL	epididymal principal cells	28.4
+ENSG00000157017	GHRL	erythrocyte progenitors	1.1
+ENSG00000157017	GHRL	erythrocytes	0.2
+ENSG00000157017	GHRL	esophageal apical cells	1.1
+ENSG00000157017	GHRL	esophageal basal cells	1.2
+ENSG00000157017	GHRL	esophageal suprabasal cells	1.0
+ENSG00000157017	GHRL	extravillous trophoblasts	3.1
+ENSG00000157017	GHRL	fallopian secretory cells	0.8
+ENSG00000157017	GHRL	fallopian tube ciliated cells	0.5
+ENSG00000157017	GHRL	fibro-adipogenic progenitors	12.5
+ENSG00000157017	GHRL	fibroblasts	3.6
+ENSG00000157017	GHRL	foveolar cells	14.9
+ENSG00000157017	GHRL	gastric chief cells	891.1
+ENSG00000157017	GHRL	gastric progenitor cells	0.0
+ENSG00000157017	GHRL	goblet cells	1.3
+ENSG00000157017	GHRL	gonadotrophs	0.7
+ENSG00000157017	GHRL	granulosa cells	0.8
+ENSG00000157017	GHRL	hematopoietic stem cells	2.4
+ENSG00000157017	GHRL	hepatic stellate cells	0.0
+ENSG00000157017	GHRL	hepatocytes	0.5
+ENSG00000157017	GHRL	hofbauer cells	4.2
+ENSG00000157017	GHRL	innate lymphoid cells	3.9
+ENSG00000157017	GHRL	kupffer cells	5.1
+ENSG00000157017	GHRL	lacrimal acinar cells	0.0
+ENSG00000157017	GHRL	lactotrophs	1.5
+ENSG00000157017	GHRL	late primary spermatocytes	0.9
+ENSG00000157017	GHRL	late spermatids	1.5
+ENSG00000157017	GHRL	leydig cells	3.0
+ENSG00000157017	GHRL	loop of henle epithelial cells	3.6
+ENSG00000157017	GHRL	lymphatic endothelial cells	1.8
+ENSG00000157017	GHRL	macrophages	9.9
+ENSG00000157017	GHRL	mast cells	7.6
+ENSG00000157017	GHRL	medullary thymic epithelial cells	4.8
+ENSG00000157017	GHRL	megakaryocyte progenitors	1.4
+ENSG00000157017	GHRL	megakaryocyte-erythroid progenitors	2.2
+ENSG00000157017	GHRL	megakaryocytes	0.0
+ENSG00000157017	GHRL	melanocytes	5.1
+ENSG00000157017	GHRL	mesothelial cells	6.8
+ENSG00000157017	GHRL	microglia	9.1
+ENSG00000157017	GHRL	migrating cytotrophoblasts	2.5
+ENSG00000157017	GHRL	monocyte progenitors	4.0
+ENSG00000157017	GHRL	monocytes	4.2
+ENSG00000157017	GHRL	mucous neck cells	33.5
+ENSG00000157017	GHRL	müller glia	5.3
+ENSG00000157017	GHRL	myonuclei	17.3
+ENSG00000157017	GHRL	myosatellite cells	4.3
+ENSG00000157017	GHRL	neuroendocrine cells	12020.2
+ENSG00000157017	GHRL	neutrophil progenitors	5.2
+ENSG00000157017	GHRL	neutrophils	9.0
+ENSG00000157017	GHRL	nk-cells	3.8
+ENSG00000157017	GHRL	ocular epithelial cells	0.7
+ENSG00000157017	GHRL	oligodendrocyte progenitor cells	1.4
+ENSG00000157017	GHRL	oligodendrocytes	1.4
+ENSG00000157017	GHRL	oocytes	0.0
+ENSG00000157017	GHRL	other brain neurons	1.3
+ENSG00000157017	GHRL	ovarian stromal cells	2.9
+ENSG00000157017	GHRL	pancreatic acinar cells	1.5
+ENSG00000157017	GHRL	pancreatic duct cells	2.5
+ENSG00000157017	GHRL	pancreatic islet cells	838.0
+ENSG00000157017	GHRL	paneth cells	0.0
+ENSG00000157017	GHRL	papillary tip epithelial cells	5.5
+ENSG00000157017	GHRL	parietal cells	10.6
+ENSG00000157017	GHRL	pdcs	18.0
+ENSG00000157017	GHRL	pericytes	3.6
+ENSG00000157017	GHRL	peritubular myoid cells	2.0
+ENSG00000157017	GHRL	pituicytes/fscs	2.8
+ENSG00000157017	GHRL	pituitary stem cells	2.2
+ENSG00000157017	GHRL	plasma cells	7.0
+ENSG00000157017	GHRL	platelets	0.0
+ENSG00000157017	GHRL	podocytes	2.1
+ENSG00000157017	GHRL	prostatic club cells	1.6
+ENSG00000157017	GHRL	prostatic glandular cells	1.7
+ENSG00000157017	GHRL	prostatic hillock cells	1.2
+ENSG00000157017	GHRL	proximal tubule cells	4.6
+ENSG00000157017	GHRL	renal collecting duct intercalated cells	2.7
+ENSG00000157017	GHRL	renal collecting duct principal cells	4.4
+ENSG00000157017	GHRL	renal connecting tubule cells	3.1
+ENSG00000157017	GHRL	respiratory basal cells	1.5
+ENSG00000157017	GHRL	respiratory ciliated cells	1.6
+ENSG00000157017	GHRL	respiratory deuterosomal cells	0.0
+ENSG00000157017	GHRL	respiratory ionocytes	0.0
+ENSG00000157017	GHRL	respiratory secretory cells	1.4
+ENSG00000157017	GHRL	retinal amacrine cells	3.9
+ENSG00000157017	GHRL	retinal bipolar cells	5.8
+ENSG00000157017	GHRL	retinal ganglion cells	0.0
+ENSG00000157017	GHRL	retinal horizontal cells	4.0
+ENSG00000157017	GHRL	retinal pigment epithelial cells	4.3
+ENSG00000157017	GHRL	rod photoreceptor cells	6.7
+ENSG00000157017	GHRL	salivary acinar cells	2.0
+ENSG00000157017	GHRL	salivary basal cells	1.3
+ENSG00000157017	GHRL	salivary duct cells	1.3
+ENSG00000157017	GHRL	salivary ionocytes	1.8
+ENSG00000157017	GHRL	salivary myoepithelial cells	0.0
+ENSG00000157017	GHRL	schwann cells	1.8
+ENSG00000157017	GHRL	sertoli cells	1.7
+ENSG00000157017	GHRL	smooth muscle cells	0.5
+ENSG00000157017	GHRL	somatotrophs	0.8
+ENSG00000157017	GHRL	submucosal glandular cells	1.2
+ENSG00000157017	GHRL	suprabasal keratinocytes	1.4
+ENSG00000157017	GHRL	syncytiotrophoblasts	1.3
+ENSG00000157017	GHRL	t-cells	4.9
+ENSG00000157017	GHRL	thymic myoid cells	2.7
+ENSG00000157017	GHRL	thymocytes	5.9
+ENSG00000157017	GHRL	thyrotrophs	0.6
+ENSG00000157017	GHRL	transitional alveolar cells	1.2
+ENSG00000157017	GHRL	tuft cells	0.0
+ENSG00000157017	GHRL	undifferentiated spermatogonia	2.9
+ENSG00000157017	GHRL	urothelial cells	2.1
+ENSG00000157017	GHRL	vascular endothelial cells	4.1
+ENSG00000157017	GHRL	vascular smooth muscle cells	3.3
+ENSG00000164406	LEAP2	adipocytes	3.4
+ENSG00000164406	LEAP2	adrenal cortex cells	1.8
+ENSG00000164406	LEAP2	adrenal medulla cells	0.0
+ENSG00000164406	LEAP2	alveolar cells type 1	1.6
+ENSG00000164406	LEAP2	alveolar cells type 2	2.3
+ENSG00000164406	LEAP2	astrocytes	2.6
+ENSG00000164406	LEAP2	b-cells	6.4
+ENSG00000164406	LEAP2	basal keratinocytes	7.0
+ENSG00000164406	LEAP2	basal prostatic cells	1.8
+ENSG00000164406	LEAP2	bergmann glia	1.9
+ENSG00000164406	LEAP2	brain excitatory neurons	2.5
+ENSG00000164406	LEAP2	brain inhibitory neurons	1.6
+ENSG00000164406	LEAP2	breast hormone-responsive cells	6.5
+ENSG00000164406	LEAP2	breast lactating cells	2.4
+ENSG00000164406	LEAP2	breast myoepithelial cells	3.4
+ENSG00000164406	LEAP2	breast secretory cells	4.3
+ENSG00000164406	LEAP2	cardiomyocytes	1.4
+ENSG00000164406	LEAP2	cdc	7.4
+ENSG00000164406	LEAP2	cholangiocytes	72.9
+ENSG00000164406	LEAP2	choroid plexus epithelial cells	1.5
+ENSG00000164406	LEAP2	colonocytes	33.3
+ENSG00000164406	LEAP2	cone photoreceptor cells	12.4
+ENSG00000164406	LEAP2	conjunctival goblet cells	5.8
+ENSG00000164406	LEAP2	corticotrophs	1.0
+ENSG00000164406	LEAP2	cytotrophoblasts	3.6
+ENSG00000164406	LEAP2	decidual stromal cells	7.2
+ENSG00000164406	LEAP2	differentiating spermatogonia	2.0
+ENSG00000164406	LEAP2	distal convoluted tubule cells	1.4
+ENSG00000164406	LEAP2	early primary spermatocytes	7.2
+ENSG00000164406	LEAP2	early spermatids	8.0
+ENSG00000164406	LEAP2	endometrial ciliated cells	4.2
+ENSG00000164406	LEAP2	endometrial glandular cells	7.0
+ENSG00000164406	LEAP2	endometrial luminal cells	8.1
+ENSG00000164406	LEAP2	endometrial secretory cells	5.5
+ENSG00000164406	LEAP2	endometrial stromal cells	3.4
+ENSG00000164406	LEAP2	enteric stem cells	7.0
+ENSG00000164406	LEAP2	enteric transient amplifying cells	7.9
+ENSG00000164406	LEAP2	enterocytes	264.5
+ENSG00000164406	LEAP2	ependymal cells	1.4
+ENSG00000164406	LEAP2	epicardial cells	11.4
+ENSG00000164406	LEAP2	epididymal basal cells	7.6
+ENSG00000164406	LEAP2	epididymal clear cells	14.3
+ENSG00000164406	LEAP2	epididymal efferent duct absorptive cells	38.8
+ENSG00000164406	LEAP2	epididymal efferent duct ciliated cells	5.9
+ENSG00000164406	LEAP2	epididymal principal cells	3.0
+ENSG00000164406	LEAP2	erythrocyte progenitors	1.7
+ENSG00000164406	LEAP2	erythrocytes	0.0
+ENSG00000164406	LEAP2	esophageal apical cells	8.9
+ENSG00000164406	LEAP2	esophageal basal cells	7.0
+ENSG00000164406	LEAP2	esophageal suprabasal cells	5.7
+ENSG00000164406	LEAP2	extravillous trophoblasts	11.1
+ENSG00000164406	LEAP2	fallopian secretory cells	2.6
+ENSG00000164406	LEAP2	fallopian tube ciliated cells	1.9
+ENSG00000164406	LEAP2	fibro-adipogenic progenitors	5.0
+ENSG00000164406	LEAP2	fibroblasts	3.8
+ENSG00000164406	LEAP2	foveolar cells	0.3
+ENSG00000164406	LEAP2	gastric chief cells	3.3
+ENSG00000164406	LEAP2	gastric progenitor cells	2.6
+ENSG00000164406	LEAP2	goblet cells	8.1
+ENSG00000164406	LEAP2	gonadotrophs	0.5
+ENSG00000164406	LEAP2	granulosa cells	17.0
+ENSG00000164406	LEAP2	hematopoietic stem cells	2.4
+ENSG00000164406	LEAP2	hepatic stellate cells	12.9
+ENSG00000164406	LEAP2	hepatocytes	1981.7
+ENSG00000164406	LEAP2	hofbauer cells	2.1
+ENSG00000164406	LEAP2	innate lymphoid cells	4.1
+ENSG00000164406	LEAP2	kupffer cells	0.0
+ENSG00000164406	LEAP2	lacrimal acinar cells	1.8
+ENSG00000164406	LEAP2	lactotrophs	1.2
+ENSG00000164406	LEAP2	late primary spermatocytes	2.5
+ENSG00000164406	LEAP2	late spermatids	0.1
+ENSG00000164406	LEAP2	leydig cells	1.1
+ENSG00000164406	LEAP2	loop of henle epithelial cells	2.7
+ENSG00000164406	LEAP2	lymphatic endothelial cells	2.8
+ENSG00000164406	LEAP2	macrophages	3.4
+ENSG00000164406	LEAP2	mast cells	8.2
+ENSG00000164406	LEAP2	medullary thymic epithelial cells	2.4
+ENSG00000164406	LEAP2	megakaryocyte progenitors	1.3
+ENSG00000164406	LEAP2	megakaryocyte-erythroid progenitors	1.5
+ENSG00000164406	LEAP2	megakaryocytes	0.0
+ENSG00000164406	LEAP2	melanocytes	5.4
+ENSG00000164406	LEAP2	mesothelial cells	4.4
+ENSG00000164406	LEAP2	microglia	2.9
+ENSG00000164406	LEAP2	migrating cytotrophoblasts	5.5
+ENSG00000164406	LEAP2	monocyte progenitors	1.1
+ENSG00000164406	LEAP2	monocytes	2.9
+ENSG00000164406	LEAP2	mucous neck cells	3.1
+ENSG00000164406	LEAP2	müller glia	5.8
+ENSG00000164406	LEAP2	myonuclei	7.8
+ENSG00000164406	LEAP2	myosatellite cells	2.9
+ENSG00000164406	LEAP2	neuroendocrine cells	0.0
+ENSG00000164406	LEAP2	neutrophil progenitors	2.0
+ENSG00000164406	LEAP2	neutrophils	2.7
+ENSG00000164406	LEAP2	nk-cells	3.9
+ENSG00000164406	LEAP2	ocular epithelial cells	3.1
+ENSG00000164406	LEAP2	oligodendrocyte progenitor cells	2.8
+ENSG00000164406	LEAP2	oligodendrocytes	2.9
+ENSG00000164406	LEAP2	oocytes	0.0
+ENSG00000164406	LEAP2	other brain neurons	1.5
+ENSG00000164406	LEAP2	ovarian stromal cells	4.8
+ENSG00000164406	LEAP2	pancreatic acinar cells	3.0
+ENSG00000164406	LEAP2	pancreatic duct cells	20.4
+ENSG00000164406	LEAP2	pancreatic islet cells	4.3
+ENSG00000164406	LEAP2	paneth cells	3.9
+ENSG00000164406	LEAP2	papillary tip epithelial cells	7.3
+ENSG00000164406	LEAP2	parietal cells	42.4
+ENSG00000164406	LEAP2	pdcs	2.0
+ENSG00000164406	LEAP2	pericytes	3.3
+ENSG00000164406	LEAP2	peritubular myoid cells	2.6
+ENSG00000164406	LEAP2	pituicytes/fscs	1.3
+ENSG00000164406	LEAP2	pituitary stem cells	1.4
+ENSG00000164406	LEAP2	plasma cells	3.2
+ENSG00000164406	LEAP2	platelets	0.0
+ENSG00000164406	LEAP2	podocytes	1.8
+ENSG00000164406	LEAP2	prostatic club cells	22.0
+ENSG00000164406	LEAP2	prostatic glandular cells	2.2
+ENSG00000164406	LEAP2	prostatic hillock cells	4.7
+ENSG00000164406	LEAP2	proximal tubule cells	4.6
+ENSG00000164406	LEAP2	renal collecting duct intercalated cells	2.4
+ENSG00000164406	LEAP2	renal collecting duct principal cells	3.1
+ENSG00000164406	LEAP2	renal connecting tubule cells	1.1
+ENSG00000164406	LEAP2	respiratory basal cells	5.1
+ENSG00000164406	LEAP2	respiratory ciliated cells	1.2
+ENSG00000164406	LEAP2	respiratory deuterosomal cells	6.2
+ENSG00000164406	LEAP2	respiratory ionocytes	5.1
+ENSG00000164406	LEAP2	respiratory secretory cells	5.3
+ENSG00000164406	LEAP2	retinal amacrine cells	9.4
+ENSG00000164406	LEAP2	retinal bipolar cells	10.6
+ENSG00000164406	LEAP2	retinal ganglion cells	11.6
+ENSG00000164406	LEAP2	retinal horizontal cells	8.0
+ENSG00000164406	LEAP2	retinal pigment epithelial cells	0.0
+ENSG00000164406	LEAP2	rod photoreceptor cells	10.9
+ENSG00000164406	LEAP2	salivary acinar cells	2.7
+ENSG00000164406	LEAP2	salivary basal cells	4.5
+ENSG00000164406	LEAP2	salivary duct cells	1.0
+ENSG00000164406	LEAP2	salivary ionocytes	1.4
+ENSG00000164406	LEAP2	salivary myoepithelial cells	7.4
+ENSG00000164406	LEAP2	schwann cells	2.2
+ENSG00000164406	LEAP2	sertoli cells	1.1
+ENSG00000164406	LEAP2	smooth muscle cells	5.6
+ENSG00000164406	LEAP2	somatotrophs	1.0
+ENSG00000164406	LEAP2	submucosal glandular cells	1.4
+ENSG00000164406	LEAP2	suprabasal keratinocytes	5.1
+ENSG00000164406	LEAP2	syncytiotrophoblasts	9.2
+ENSG00000164406	LEAP2	t-cells	4.7
+ENSG00000164406	LEAP2	thymic myoid cells	4.1
+ENSG00000164406	LEAP2	thymocytes	2.5
+ENSG00000164406	LEAP2	thyrotrophs	0.0
+ENSG00000164406	LEAP2	transitional alveolar cells	2.4
+ENSG00000164406	LEAP2	tuft cells	11.5
+ENSG00000164406	LEAP2	undifferentiated spermatogonia	1.5
+ENSG00000164406	LEAP2	urothelial cells	125.5
+ENSG00000164406	LEAP2	vascular endothelial cells	4.0
+ENSG00000164406	LEAP2	vascular smooth muscle cells	4.5
+ENSG00000177669	MBOAT4	adipocytes	2.1
+ENSG00000177669	MBOAT4	adrenal cortex cells	0.4
+ENSG00000177669	MBOAT4	adrenal medulla cells	0.0
+ENSG00000177669	MBOAT4	alveolar cells type 1	0.1
+ENSG00000177669	MBOAT4	alveolar cells type 2	0.1
+ENSG00000177669	MBOAT4	astrocytes	0.3
+ENSG00000177669	MBOAT4	b-cells	0.4
+ENSG00000177669	MBOAT4	basal keratinocytes	0.1
+ENSG00000177669	MBOAT4	basal prostatic cells	0.6
+ENSG00000177669	MBOAT4	bergmann glia	0.4
+ENSG00000177669	MBOAT4	brain excitatory neurons	0.4
+ENSG00000177669	MBOAT4	brain inhibitory neurons	0.3
+ENSG00000177669	MBOAT4	breast hormone-responsive cells	0.0
+ENSG00000177669	MBOAT4	breast lactating cells	0.0
+ENSG00000177669	MBOAT4	breast myoepithelial cells	0.0
+ENSG00000177669	MBOAT4	breast secretory cells	0.7
+ENSG00000177669	MBOAT4	cardiomyocytes	1.5
+ENSG00000177669	MBOAT4	cdc	2.3
+ENSG00000177669	MBOAT4	cholangiocytes	35.3
+ENSG00000177669	MBOAT4	choroid plexus epithelial cells	0.0
+ENSG00000177669	MBOAT4	colonocytes	0.5
+ENSG00000177669	MBOAT4	cone photoreceptor cells	0.0
+ENSG00000177669	MBOAT4	conjunctival goblet cells	0.0
+ENSG00000177669	MBOAT4	corticotrophs	0.1
+ENSG00000177669	MBOAT4	cytotrophoblasts	0.1
+ENSG00000177669	MBOAT4	decidual stromal cells	0.0
+ENSG00000177669	MBOAT4	differentiating spermatogonia	0.0
+ENSG00000177669	MBOAT4	distal convoluted tubule cells	0.4
+ENSG00000177669	MBOAT4	early primary spermatocytes	0.1
+ENSG00000177669	MBOAT4	early spermatids	3.3
+ENSG00000177669	MBOAT4	endometrial ciliated cells	0.5
+ENSG00000177669	MBOAT4	endometrial glandular cells	1.3
+ENSG00000177669	MBOAT4	endometrial luminal cells	0.4
+ENSG00000177669	MBOAT4	endometrial secretory cells	0.0
+ENSG00000177669	MBOAT4	endometrial stromal cells	0.7
+ENSG00000177669	MBOAT4	enteric stem cells	0.5
+ENSG00000177669	MBOAT4	enteric transient amplifying cells	0.5
+ENSG00000177669	MBOAT4	enterocytes	0.1
+ENSG00000177669	MBOAT4	ependymal cells	0.0
+ENSG00000177669	MBOAT4	epicardial cells	18.2
+ENSG00000177669	MBOAT4	epididymal basal cells	0.0
+ENSG00000177669	MBOAT4	epididymal clear cells	0.0
+ENSG00000177669	MBOAT4	epididymal efferent duct absorptive cells	0.2
+ENSG00000177669	MBOAT4	epididymal efferent duct ciliated cells	0.0
+ENSG00000177669	MBOAT4	epididymal principal cells	0.0
+ENSG00000177669	MBOAT4	erythrocyte progenitors	0.6
+ENSG00000177669	MBOAT4	erythrocytes	0.2
+ENSG00000177669	MBOAT4	esophageal apical cells	0.3
+ENSG00000177669	MBOAT4	esophageal basal cells	0.1
+ENSG00000177669	MBOAT4	esophageal suprabasal cells	0.1
+ENSG00000177669	MBOAT4	extravillous trophoblasts	0.1
+ENSG00000177669	MBOAT4	fallopian secretory cells	0.1
+ENSG00000177669	MBOAT4	fallopian tube ciliated cells	5.4
+ENSG00000177669	MBOAT4	fibro-adipogenic progenitors	0.7
+ENSG00000177669	MBOAT4	fibroblasts	0.4
+ENSG00000177669	MBOAT4	foveolar cells	0.0
+ENSG00000177669	MBOAT4	gastric chief cells	0.0
+ENSG00000177669	MBOAT4	gastric progenitor cells	1.3
+ENSG00000177669	MBOAT4	goblet cells	0.3
+ENSG00000177669	MBOAT4	gonadotrophs	0.3
+ENSG00000177669	MBOAT4	granulosa cells	0.0
+ENSG00000177669	MBOAT4	hematopoietic stem cells	1.5
+ENSG00000177669	MBOAT4	hepatic stellate cells	0.0
+ENSG00000177669	MBOAT4	hepatocytes	0.1
+ENSG00000177669	MBOAT4	hofbauer cells	0.3
+ENSG00000177669	MBOAT4	innate lymphoid cells	4.1
+ENSG00000177669	MBOAT4	kupffer cells	2.0
+ENSG00000177669	MBOAT4	lacrimal acinar cells	0.0
+ENSG00000177669	MBOAT4	lactotrophs	0.2
+ENSG00000177669	MBOAT4	late primary spermatocytes	0.8
+ENSG00000177669	MBOAT4	late spermatids	1.1
+ENSG00000177669	MBOAT4	leydig cells	0.2
+ENSG00000177669	MBOAT4	loop of henle epithelial cells	0.1
+ENSG00000177669	MBOAT4	lymphatic endothelial cells	0.5
+ENSG00000177669	MBOAT4	macrophages	1.1
+ENSG00000177669	MBOAT4	mast cells	2.9
+ENSG00000177669	MBOAT4	medullary thymic epithelial cells	0.0
+ENSG00000177669	MBOAT4	megakaryocyte progenitors	0.0
+ENSG00000177669	MBOAT4	megakaryocyte-erythroid progenitors	0.6
+ENSG00000177669	MBOAT4	megakaryocytes	0.0
+ENSG00000177669	MBOAT4	melanocytes	0.0
+ENSG00000177669	MBOAT4	mesothelial cells	1.0
+ENSG00000177669	MBOAT4	microglia	0.5
+ENSG00000177669	MBOAT4	migrating cytotrophoblasts	0.0
+ENSG00000177669	MBOAT4	monocyte progenitors	0.4
+ENSG00000177669	MBOAT4	monocytes	0.4
+ENSG00000177669	MBOAT4	mucous neck cells	0.8
+ENSG00000177669	MBOAT4	müller glia	0.0
+ENSG00000177669	MBOAT4	myonuclei	0.4
+ENSG00000177669	MBOAT4	myosatellite cells	0.8
+ENSG00000177669	MBOAT4	neuroendocrine cells	41.7
+ENSG00000177669	MBOAT4	neutrophil progenitors	0.4
+ENSG00000177669	MBOAT4	neutrophils	1.8
+ENSG00000177669	MBOAT4	nk-cells	4.1
+ENSG00000177669	MBOAT4	ocular epithelial cells	0.2
+ENSG00000177669	MBOAT4	oligodendrocyte progenitor cells	0.3
+ENSG00000177669	MBOAT4	oligodendrocytes	0.3
+ENSG00000177669	MBOAT4	oocytes	0.0
+ENSG00000177669	MBOAT4	other brain neurons	0.6
+ENSG00000177669	MBOAT4	ovarian stromal cells	0.2
+ENSG00000177669	MBOAT4	pancreatic acinar cells	0.7
+ENSG00000177669	MBOAT4	pancreatic duct cells	6.8
+ENSG00000177669	MBOAT4	pancreatic islet cells	40.8
+ENSG00000177669	MBOAT4	paneth cells	0.0
+ENSG00000177669	MBOAT4	papillary tip epithelial cells	0.2
+ENSG00000177669	MBOAT4	parietal cells	1.8
+ENSG00000177669	MBOAT4	pdcs	1.3
+ENSG00000177669	MBOAT4	pericytes	0.2
+ENSG00000177669	MBOAT4	peritubular myoid cells	0.0
+ENSG00000177669	MBOAT4	pituicytes/fscs	0.0
+ENSG00000177669	MBOAT4	pituitary stem cells	0.0
+ENSG00000177669	MBOAT4	plasma cells	0.3
+ENSG00000177669	MBOAT4	platelets	0.0
+ENSG00000177669	MBOAT4	podocytes	0.3
+ENSG00000177669	MBOAT4	prostatic club cells	0.0
+ENSG00000177669	MBOAT4	prostatic glandular cells	0.1
+ENSG00000177669	MBOAT4	prostatic hillock cells	0.0
+ENSG00000177669	MBOAT4	proximal tubule cells	0.2
+ENSG00000177669	MBOAT4	renal collecting duct intercalated cells	0.1
+ENSG00000177669	MBOAT4	renal collecting duct principal cells	0.3
+ENSG00000177669	MBOAT4	renal connecting tubule cells	0.1
+ENSG00000177669	MBOAT4	respiratory basal cells	0.2
+ENSG00000177669	MBOAT4	respiratory ciliated cells	0.0
+ENSG00000177669	MBOAT4	respiratory deuterosomal cells	0.0
+ENSG00000177669	MBOAT4	respiratory ionocytes	0.0
+ENSG00000177669	MBOAT4	respiratory secretory cells	0.0
+ENSG00000177669	MBOAT4	retinal amacrine cells	0.0
+ENSG00000177669	MBOAT4	retinal bipolar cells	0.1
+ENSG00000177669	MBOAT4	retinal ganglion cells	0.0
+ENSG00000177669	MBOAT4	retinal horizontal cells	0.0
+ENSG00000177669	MBOAT4	retinal pigment epithelial cells	0.0
+ENSG00000177669	MBOAT4	rod photoreceptor cells	0.2
+ENSG00000177669	MBOAT4	salivary acinar cells	0.2
+ENSG00000177669	MBOAT4	salivary basal cells	0.1
+ENSG00000177669	MBOAT4	salivary duct cells	0.2
+ENSG00000177669	MBOAT4	salivary ionocytes	0.4
+ENSG00000177669	MBOAT4	salivary myoepithelial cells	1.3
+ENSG00000177669	MBOAT4	schwann cells	0.4
+ENSG00000177669	MBOAT4	sertoli cells	0.0
+ENSG00000177669	MBOAT4	smooth muscle cells	0.0
+ENSG00000177669	MBOAT4	somatotrophs	0.1
+ENSG00000177669	MBOAT4	submucosal glandular cells	0.0
+ENSG00000177669	MBOAT4	suprabasal keratinocytes	0.3
+ENSG00000177669	MBOAT4	syncytiotrophoblasts	0.0
+ENSG00000177669	MBOAT4	t-cells	8.0
+ENSG00000177669	MBOAT4	thymic myoid cells	0.0
+ENSG00000177669	MBOAT4	thymocytes	5.1
+ENSG00000177669	MBOAT4	thyrotrophs	0.0
+ENSG00000177669	MBOAT4	transitional alveolar cells	0.0
+ENSG00000177669	MBOAT4	tuft cells	0.0
+ENSG00000177669	MBOAT4	undifferentiated spermatogonia	0.1
+ENSG00000177669	MBOAT4	urothelial cells	0.2
+ENSG00000177669	MBOAT4	vascular endothelial cells	0.6
+ENSG00000177669	MBOAT4	vascular smooth muscle cells	0.4
+ENSG00000198829	SUCNR1	adipocytes	0.1
+ENSG00000198829	SUCNR1	adrenal cortex cells	1.3
+ENSG00000198829	SUCNR1	adrenal medulla cells	0.0
+ENSG00000198829	SUCNR1	alveolar cells type 1	0.1
+ENSG00000198829	SUCNR1	alveolar cells type 2	0.1
+ENSG00000198829	SUCNR1	astrocytes	0.0
+ENSG00000198829	SUCNR1	b-cells	0.1
+ENSG00000198829	SUCNR1	basal keratinocytes	0.2
+ENSG00000198829	SUCNR1	basal prostatic cells	0.0
+ENSG00000198829	SUCNR1	bergmann glia	0.0
+ENSG00000198829	SUCNR1	brain excitatory neurons	0.0
+ENSG00000198829	SUCNR1	brain inhibitory neurons	0.0
+ENSG00000198829	SUCNR1	breast hormone-responsive cells	0.0
+ENSG00000198829	SUCNR1	breast lactating cells	0.0
+ENSG00000198829	SUCNR1	breast myoepithelial cells	0.0
+ENSG00000198829	SUCNR1	breast secretory cells	0.0
+ENSG00000198829	SUCNR1	cardiomyocytes	0.0
+ENSG00000198829	SUCNR1	cdc	7.3
+ENSG00000198829	SUCNR1	cholangiocytes	2.0
+ENSG00000198829	SUCNR1	choroid plexus epithelial cells	0.0
+ENSG00000198829	SUCNR1	colonocytes	0.1
+ENSG00000198829	SUCNR1	cone photoreceptor cells	0.0
+ENSG00000198829	SUCNR1	conjunctival goblet cells	0.0
+ENSG00000198829	SUCNR1	corticotrophs	0.0
+ENSG00000198829	SUCNR1	cytotrophoblasts	0.1
+ENSG00000198829	SUCNR1	decidual stromal cells	0.3
+ENSG00000198829	SUCNR1	differentiating spermatogonia	0.0
+ENSG00000198829	SUCNR1	distal convoluted tubule cells	2.6
+ENSG00000198829	SUCNR1	early primary spermatocytes	0.0
+ENSG00000198829	SUCNR1	early spermatids	0.7
+ENSG00000198829	SUCNR1	endometrial ciliated cells	0.0
+ENSG00000198829	SUCNR1	endometrial glandular cells	0.0
+ENSG00000198829	SUCNR1	endometrial luminal cells	0.0
+ENSG00000198829	SUCNR1	endometrial secretory cells	0.0
+ENSG00000198829	SUCNR1	endometrial stromal cells	0.1
+ENSG00000198829	SUCNR1	enteric stem cells	0.0
+ENSG00000198829	SUCNR1	enteric transient amplifying cells	0.0
+ENSG00000198829	SUCNR1	enterocytes	0.6
+ENSG00000198829	SUCNR1	ependymal cells	0.1
+ENSG00000198829	SUCNR1	epicardial cells	0.0
+ENSG00000198829	SUCNR1	epididymal basal cells	0.0
+ENSG00000198829	SUCNR1	epididymal clear cells	0.0
+ENSG00000198829	SUCNR1	epididymal efferent duct absorptive cells	0.0
+ENSG00000198829	SUCNR1	epididymal efferent duct ciliated cells	0.0
+ENSG00000198829	SUCNR1	epididymal principal cells	0.0
+ENSG00000198829	SUCNR1	erythrocyte progenitors	0.1
+ENSG00000198829	SUCNR1	erythrocytes	0.2
+ENSG00000198829	SUCNR1	esophageal apical cells	0.0
+ENSG00000198829	SUCNR1	esophageal basal cells	0.0
+ENSG00000198829	SUCNR1	esophageal suprabasal cells	0.0
+ENSG00000198829	SUCNR1	extravillous trophoblasts	0.0
+ENSG00000198829	SUCNR1	fallopian secretory cells	0.0
+ENSG00000198829	SUCNR1	fallopian tube ciliated cells	0.0
+ENSG00000198829	SUCNR1	fibro-adipogenic progenitors	2.6
+ENSG00000198829	SUCNR1	fibroblasts	0.5
+ENSG00000198829	SUCNR1	foveolar cells	0.0
+ENSG00000198829	SUCNR1	gastric chief cells	0.0
+ENSG00000198829	SUCNR1	gastric progenitor cells	6.4
+ENSG00000198829	SUCNR1	goblet cells	0.0
+ENSG00000198829	SUCNR1	gonadotrophs	0.0
+ENSG00000198829	SUCNR1	granulosa cells	0.0
+ENSG00000198829	SUCNR1	hematopoietic stem cells	2.4
+ENSG00000198829	SUCNR1	hepatic stellate cells	0.0
+ENSG00000198829	SUCNR1	hepatocytes	6.0
+ENSG00000198829	SUCNR1	hofbauer cells	32.8
+ENSG00000198829	SUCNR1	innate lymphoid cells	0.0
+ENSG00000198829	SUCNR1	kupffer cells	120.9
+ENSG00000198829	SUCNR1	lacrimal acinar cells	0.0
+ENSG00000198829	SUCNR1	lactotrophs	0.0
+ENSG00000198829	SUCNR1	late primary spermatocytes	0.0
+ENSG00000198829	SUCNR1	late spermatids	0.5
+ENSG00000198829	SUCNR1	leydig cells	0.0
+ENSG00000198829	SUCNR1	loop of henle epithelial cells	11.2
+ENSG00000198829	SUCNR1	lymphatic endothelial cells	0.2
+ENSG00000198829	SUCNR1	macrophages	28.9
+ENSG00000198829	SUCNR1	mast cells	0.2
+ENSG00000198829	SUCNR1	medullary thymic epithelial cells	0.0
+ENSG00000198829	SUCNR1	megakaryocyte progenitors	1.0
+ENSG00000198829	SUCNR1	megakaryocyte-erythroid progenitors	0.0
+ENSG00000198829	SUCNR1	megakaryocytes	6.2
+ENSG00000198829	SUCNR1	melanocytes	0.0
+ENSG00000198829	SUCNR1	mesothelial cells	0.5
+ENSG00000198829	SUCNR1	microglia	34.1
+ENSG00000198829	SUCNR1	migrating cytotrophoblasts	0.0
+ENSG00000198829	SUCNR1	monocyte progenitors	9.9
+ENSG00000198829	SUCNR1	monocytes	3.3
+ENSG00000198829	SUCNR1	mucous neck cells	0.4
+ENSG00000198829	SUCNR1	müller glia	0.0
+ENSG00000198829	SUCNR1	myonuclei	0.0
+ENSG00000198829	SUCNR1	myosatellite cells	0.0
+ENSG00000198829	SUCNR1	neuroendocrine cells	0.0
+ENSG00000198829	SUCNR1	neutrophil progenitors	74.9
+ENSG00000198829	SUCNR1	neutrophils	5.1
+ENSG00000198829	SUCNR1	nk-cells	0.1
+ENSG00000198829	SUCNR1	ocular epithelial cells	0.0
+ENSG00000198829	SUCNR1	oligodendrocyte progenitor cells	0.0
+ENSG00000198829	SUCNR1	oligodendrocytes	0.1
+ENSG00000198829	SUCNR1	oocytes	0.0
+ENSG00000198829	SUCNR1	other brain neurons	0.0
+ENSG00000198829	SUCNR1	ovarian stromal cells	0.1
+ENSG00000198829	SUCNR1	pancreatic acinar cells	0.5
+ENSG00000198829	SUCNR1	pancreatic duct cells	0.0
+ENSG00000198829	SUCNR1	pancreatic islet cells	0.8
+ENSG00000198829	SUCNR1	paneth cells	0.0
+ENSG00000198829	SUCNR1	papillary tip epithelial cells	0.0
+ENSG00000198829	SUCNR1	parietal cells	0.0
+ENSG00000198829	SUCNR1	pdcs	4.6
+ENSG00000198829	SUCNR1	pericytes	11.9
+ENSG00000198829	SUCNR1	peritubular myoid cells	0.0
+ENSG00000198829	SUCNR1	pituicytes/fscs	1.9
+ENSG00000198829	SUCNR1	pituitary stem cells	0.0
+ENSG00000198829	SUCNR1	plasma cells	0.3
+ENSG00000198829	SUCNR1	platelets	94.7
+ENSG00000198829	SUCNR1	podocytes	2.1
+ENSG00000198829	SUCNR1	prostatic club cells	0.0
+ENSG00000198829	SUCNR1	prostatic glandular cells	0.0
+ENSG00000198829	SUCNR1	prostatic hillock cells	0.0
+ENSG00000198829	SUCNR1	proximal tubule cells	14.7
+ENSG00000198829	SUCNR1	renal collecting duct intercalated cells	2.3
+ENSG00000198829	SUCNR1	renal collecting duct principal cells	1.2
+ENSG00000198829	SUCNR1	renal connecting tubule cells	15.9
+ENSG00000198829	SUCNR1	respiratory basal cells	0.0
+ENSG00000198829	SUCNR1	respiratory ciliated cells	0.1
+ENSG00000198829	SUCNR1	respiratory deuterosomal cells	0.0
+ENSG00000198829	SUCNR1	respiratory ionocytes	25.4
+ENSG00000198829	SUCNR1	respiratory secretory cells	1.3
+ENSG00000198829	SUCNR1	retinal amacrine cells	0.0
+ENSG00000198829	SUCNR1	retinal bipolar cells	0.0
+ENSG00000198829	SUCNR1	retinal ganglion cells	0.0
+ENSG00000198829	SUCNR1	retinal horizontal cells	0.0
+ENSG00000198829	SUCNR1	retinal pigment epithelial cells	0.0
+ENSG00000198829	SUCNR1	rod photoreceptor cells	0.0
+ENSG00000198829	SUCNR1	salivary acinar cells	0.1
+ENSG00000198829	SUCNR1	salivary basal cells	0.0
+ENSG00000198829	SUCNR1	salivary duct cells	0.0
+ENSG00000198829	SUCNR1	salivary ionocytes	0.0
+ENSG00000198829	SUCNR1	salivary myoepithelial cells	0.0
+ENSG00000198829	SUCNR1	schwann cells	2.1
+ENSG00000198829	SUCNR1	sertoli cells	0.0
+ENSG00000198829	SUCNR1	smooth muscle cells	0.1
+ENSG00000198829	SUCNR1	somatotrophs	0.0
+ENSG00000198829	SUCNR1	submucosal glandular cells	0.3
+ENSG00000198829	SUCNR1	suprabasal keratinocytes	0.4
+ENSG00000198829	SUCNR1	syncytiotrophoblasts	0.1
+ENSG00000198829	SUCNR1	t-cells	0.3
+ENSG00000198829	SUCNR1	thymic myoid cells	0.0
+ENSG00000198829	SUCNR1	thymocytes	0.8
+ENSG00000198829	SUCNR1	thyrotrophs	0.0
+ENSG00000198829	SUCNR1	transitional alveolar cells	0.2
+ENSG00000198829	SUCNR1	tuft cells	23.1
+ENSG00000198829	SUCNR1	undifferentiated spermatogonia	0.2
+ENSG00000198829	SUCNR1	urothelial cells	0.6
+ENSG00000198829	SUCNR1	vascular endothelial cells	0.4
+ENSG00000198829	SUCNR1	vascular smooth muscle cells	0.9
