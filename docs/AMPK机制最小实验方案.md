@@ -143,7 +143,76 @@ Zhang 2013 的 ghrelin→CaMKK→AMPK 是在其他体系建立的。
 
 ---
 
-## 七、关于"自圆其说"的提醒
+## 七、细胞系选择
+
+⚠️ **这一节对你的课题特别重要**——研究脂肪酸代谢，细胞选错会直接导致实验失败。
+
+### 7.1 权威意见（决定了细胞能不能用）
+
+**AHA 科学声明**（Assessing Cardiac Metabolism, 2016）原文：
+
+> "H9c2 cells are of **limited use** because they lack many adult cardiomyocyte
+> characteristics. For instance, H9c2 cells have a **low mitochondrial content
+> and a very low capacity for FA oxidation**."
+>
+> "HL-1 cells... remain similar to primary cardiomyocytes with respect to their
+> signaling and transcriptional and **metabolic regulation**."
+
+**未分化的 H9C2 脂肪酸氧化能力很低**，这对 CD36 / 脂肪酸摄取研究是硬伤。
+
+### 7.2 两种细胞对比
+
+| | **H9C2** | **HL-1** |
+|---|---|---|
+| 来源 | 胚胎 BD1X 大鼠**心室** | 小鼠**心房**肿瘤（SV40 大 T） |
+| 培养基 | DMEM + 10% FBS（**便宜**） | Claycomb 培养基（**专利、贵**） |
+| 好养程度 | ★★★★★ | ★★★☆☆ |
+| 转染效率 | 高 | 中等 |
+| 脂肪酸氧化能力 | **未分化：很低** | 较好 |
+| 能量代谢倾向 | 未分化偏糖酵解 | **也偏糖酵解**（文献指出） |
+| **CD36 转位研究先例** | 少 | **Schwenk 2010（Diabetologia）** |
+| 主要风险 | 分化时可能**转向骨骼肌样** | 心房来源，非心室；传代后收缩活性下降 |
+
+### 7.3 关键文献先例
+
+**Schwenk 2010, Diabetologia** 正是用 **HL-1** 证明了 VAMP4 介导的
+胰岛素与 AMPK 诱导的 CD36 转位——**这是与本课题最直接相关的方法学先例**。
+用 HL-1 可以直接复制其条件，减少试错。
+
+### 7.4 结论与建议
+
+**首选 HL-1**，理由：
+1. CD36 转位研究有直接文献先例（Schwenk 2010）
+2. AHA 声明认为其代谢调节接近原代心肌细胞
+3. 方法学条件可直接参照，省时间
+
+**若坚持用 H9C2（或实验室已有），必须分化**：
+
+| 项目 | 条件 |
+|---|---|
+| 分化方案 | 1% 血清 + **全反式维甲酸 ATRA 100 nM – 1 µM** |
+| 时长 | **5–6 天** |
+| 分化后 | 肌节蛋白、钙处理蛋白表达上升，代谢更氧化 |
+
+⚠️ **分化风险**：有研究指出 H9C2 经常用分化方案处理后
+**会转向骨骼肌样特征**（skeletal muscle-like characteristics），
+且分化细胞仍具异质性、与原代心肌细胞差异明显。
+**分化后务必验证心肌标志物**（cTnI / cTnT / α-MHC）而非骨骼肌标志物。
+
+**另一个角度**：Cardiology 领域也有文献认为分化后的 H9C2 在代谢特征、
+线粒体呼吸功能上**比 HL-1 更接近成年心肌细胞**。所以两种意见并存——
+但那个结论的前提是"**分化后**"，未分化的 H9C2 明确不适合。
+
+### 7.5 无论选哪个细胞，第一件事都一样
+
+**先验证 GHSR1a 表达**（本课题的固有难题）。
+若该细胞系不表达 GHSR1a，后续所有实验都是空中楼阁。
+
+建议用 **qPCR + Western blot 双验证**，并设阳性对照（垂体或下丘脑组织）。
+
+---
+
+## 八、关于"自圆其说"的提醒
 
 时间紧可以理解，但有两条线不能踩：
 
