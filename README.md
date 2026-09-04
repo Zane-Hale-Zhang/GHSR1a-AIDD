@@ -110,7 +110,11 @@ GHSR1a-AIDD/
 │   └── structures/                   加氢后受体、配体、redocking 结果
 │
 └── docs/
-    ├── portfolio.html                项目作品集（自包含，可直接打开/打印）
+    ├── index.html                    项目作品集（Pages 入口，自包含可直接打开/打印）
+    ├── AMPK机制最小实验方案.md        两周闭环的机制设计（含决策树与应急方案）
+    ├── 四周执行表_AMPK机制.md         按天排的执行表，含 Go/No-Go 决策点
+    ├── 试剂采购清单.md                按到位时间分组，含已核实货号
+    ├── protocol_表面CD36检测.md       表面 CD36 定量完整 protocol
     ├── 方法学备忘录.md                 全部踩坑记录与解决方案
     └── 组学探索笔记.md                 转录组方向的探索与证伪
 ```
