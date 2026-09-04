@@ -228,7 +228,11 @@ logP 排第二，而 Cavity II 恰好是疏水腔（ghrelin 辛酰基伸入处�
 
 | 文件 | 内容 |
 |---|---|
-| `docs/portfolio.html` | 项目作品集，自包含无外部依赖，可直接打开或打印为 PDF |
+| `docs/index.html` | 项目作品集，自包含无外部依赖，可直接打开或打印为 PDF |
+| `docs/AMPK机制最小实验方案.md` | 两周闭环的 AMPK–CD36 机制设计（含决策树与应急方案） |
+| `docs/四周执行表_AMPK机制.md` | 按天排的实验执行表，含 Go/No-Go 决策点 |
+| `docs/试剂采购清单.md` | 按到位时间分组的试剂清单，含已核实货号 |
+| `docs/protocol_表面CD36检测.md` | 表面 CD36 定量完整 protocol |
 | `docs/方法学备忘录.md` | 全部踩坑记录：环境冲突、API 变化、RMSD 陷阱、模型选择 |
 | `docs/组学探索笔记.md` | 转录组方向的调研、发现与证伪过程 |
 
