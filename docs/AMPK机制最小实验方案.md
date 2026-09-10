@@ -41,15 +41,98 @@
 
 p-AMPK/AMPK 比值升高，通常在 **15–30 min 达峰**。
 
+### 🔴 给药条件：必须无血清（2026-09-10 补充，关键变量）
+
+**ghrelin 给药时培养基中不加血清。** 这不是"优化建议"，是必要条件。
+
+#### 原因：血清和 FBS 本身含有 ghrelin 去酰化酶
+
+综述（*Beyond Hunger: The Structure, Signaling, and Systemic Roles of Ghrelin*）原文：
+
+> *"significant levels of ghrelin deacylase **APT1** were released from the
+> RAW264.7 macrophage cell line... and **similar enzymes were identified in
+> fetal bovine serum (FBS)**, indicating the potential need for ghrelin
+> stabilization, **even in cell-culture-based assays**."*
+
+即：**你加的 FBS 里就有能剪掉 ghrelin 辛酰基的酶。**
+
+#### 降解速度（实测数据）
+
+| 体系 | 结果 |
+|---|---|
+| acyl-ghrelin 血浆半衰期 | **9–13 min**（total ghrelin 27–34 min） |
+| **大鼠血清，30 min** | **约 60% 转化为 des-acyl** |
+| 人血清，240 min | 约 50% 转化 |
+| 纯人 BChE | 可在 ~1 h 内水解血清中全部 ghrelin（kcat ≈1.4 min⁻¹） |
+
+⚠️ **注意物种差异**：大鼠血清的去酰化**比人快得多**（30 min 就 60%）。
+你用的是大鼠来源的 H9C2，风险更高。
+
+#### 后果
+
+**des-acyl ghrelin 不能激活 GHSR1a。** 辛酰基被剪掉后，肽就失活了。
+如果在含 10% FBS 的培养基里给药 2 h，你加入的 acyl-ghrelin
+**可能大部分已经变成 des-acyl**——结果就是：
+
+- 效应弱或根本测不到
+- 被迫用很高浓度（10⁻⁷–10⁻⁶ M）才勉强看到信号
+- 重复性差，同一个人做两次结果不一样
+
+**这可能是本课题最容易被忽视、影响又最大的一个变量。**
+
+#### 标准操作
+
+```
+1. 生长：DMEM + 10% FBS        （常规培养）
+2. 饥饿：DMEM + 1% FBS，过夜    （同步化 + 压低基线）
+3. 给药：无血清 DMEM + ghrelin  ← 关键，这一步绝不加血清
+```
+
+短时程（5–120 min）无血清对 H9C2 完全无压力。
+
+#### ⚠️ BODIPY 脂肪酸摄取实验：不要用普通 BSA
+
+肽类给药常加 0.1% BSA 防塑料吸附，但**普通 BSA 会结合脂肪酸**，
+直接把你的 BODIPY 信号吃掉。
+
+如果必须加，用 **fatty acid-free BSA**；**最稳妥是完全不加**。
+
+#### acyl-ghrelin 母液配制与保存
+
+| 项目 | 做法 |
+|---|---|
+| 溶剂 | 无菌水或 PBS；**弱酸性（pH 3–4）更稳定**，可抑制酯酶 |
+| ⚠️ 注意 | **≥100 mM HCl 反而促进去酰化**，酸化要温和 |
+| 浓度 | 配 10⁻⁴–10⁻³ M 母液（如 100 µM），分装 |
+| 保存 | **−80 °C 分装**，冻干粉 −20 °C；**禁止反复冻融** |
+| 使用 | **现配现用**，解冻后不再冻回 |
+
+可选稳定化措施（需要时）：
+- **PMSF**（丝氨酸酯酶抑制剂）
+- **AEBSF**（人血清中证实有效）
+- **MAFP**（methoxy arachidonyl fluorophosphonate，目前文献报道最优）
+- eserine salicylate（BChE 抑制剂）
+
+#### ✅ 下单前必须确认一件事
+
+**你买的是 acyl-ghrelin（octanoylated ghrelin），不是 des-acyl ghrelin 或
+"ghrelin" 笼统品名。**
+
+只有 Ser³ 位带辛酰基的 acyl-ghrelin 才能激活 GHSR1a。
+很多供应商两者都卖，货号差一个字，买错则整个课题白做。
+大鼠/人 acyl-ghrelin 序列不同，按实验体系选（H9C2 是大鼠）。
+
 ### 关键点
 
 1. **必须有 AICAR 阳性对照**。如果你的体系连 AICAR 都测不出 p-AMPK 变化，
    说明抗体或样品有问题，先解决这个再往下做。
-2. 处理前**无血清饥饿 2–4 h**，否则血清中的生长因子会让基线 AMPK 磷酸化偏高，
-   掩盖 ghrelin 的效应。
+2. 处理前**无血清饥饿 2–4 h**（或 1% FBS 过夜），否则血清中的生长因子会让基线
+   AMPK 磷酸化偏高，掩盖 ghrelin 的效应；
+   **给药时则完全无血清**（见上节，去酰化酶问题）。
 3. 裂解液**必须加磷酸酶抑制剂**（Na₃VO₄、NaF），否则 p-AMPK 会被去磷酸化。
    这一条忘了，实验必废。
 4. acyl-ghrelin 半衰期短，长时程要补加或改用 anamorelin（见主文档 6.4.3）。
+   **无血清条件下稳定性显著优于含血清条件。**
 
 ---
 
